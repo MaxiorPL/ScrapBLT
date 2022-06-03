@@ -1,0 +1,19 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : false,
+   "description" : "Mod that changes the loot tables and some crafting recipes in order to make scrap more enjoyable and less grindy.
+Works on version 0.6.2
+
+CONTENT:
+- Better refinery output
+- More drops from flowers, beehives, wocs etc.
+- Better bot, crate loot
+
+If found any bugs related to this mod, contact me on Discord JustMaxior#5757
+File mod version over at Github. ",
+   "fileId" : 2815971822,
+   "localId" : "52f76e98-6a99-4afc-9c1b-1035305b2e0a",
+   "name" : "Better Loot Table Mod",
+   "type" : "Custom Game",
+   "version" : 0
+}
